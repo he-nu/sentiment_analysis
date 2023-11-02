@@ -1,4 +1,4 @@
-## This program asks user how their day went and responds based on the sentiment of hte input.
+## This program asks user how their day went and responds based on the sentiment of the input.
 
 ### install requirements:
 
