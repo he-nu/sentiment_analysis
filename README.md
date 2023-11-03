@@ -1,9 +1,9 @@
-## This program asks user how their day went and responds based on the sentiment of the input.
+## This program asks a user how their day went and responds based on the sentiment of the input.
 
-### install requirements:
+### Install requirements:
 
-$ pip install -r requirements.txt
+```$ pip install -r requirements.txt```
 
-### run the program:
+### Run the program:
 
-$ python3.8 main.py
+```$ python3.8 main.py```
